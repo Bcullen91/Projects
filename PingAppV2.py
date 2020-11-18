@@ -142,8 +142,8 @@ while running == "yes":
             break
     continue
 else:
-    printlog('The program has crashed. Please contact Brian Cullen at (405) 831-5468.', 'none')
+    printlog('The program has crashed. Please contact Brian at (xxx) xxx-xxxx.', 'none')
 
-printlog('The program has crashed. Please contact Brian Cullen at (405) 831-5468.', 'none')
+printlog('The program has crashed. Please contact Brian at (xxx) xxx-xxxx.', 'none')
 
 root.update()
